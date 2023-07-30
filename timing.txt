@@ -1,0 +1,45 @@
+python course part 1 start
+`````````````````````````````````
+day1_chapter1:start 0:00 end44:35
+day2_chapter2:start44:35 end 1:00
+day3_chapter2:start 1:00 end 1:17:54 
+day4_chapter2 completed start 1:17:54 end 1:39:10
+day5_chapter3 start 1:17:54 end 2:02:10
+day6_chapter3 start 1:17:54 end 2:16:56
+day7_chapter3 completed start 2:16:56 end 2:35:04
+day8_chapter4 start 2:35:04 end 2:58:11 
+day9_chapter4 completed start 2:58:11 end 3:20:12
+day10_chapter5 start 3:20:12 end 3:40:52
+day11_chapter5 start 3:40:52 end 3:53:12
+day12_chapter5 completed start 3:53:12 end 4:19:21
+day13_practice ch1 to ch5 start 11:50 to 1:10 and 4:00 to 5:20
+day14_chapter6 start 4:19:21 end 4:36:32
+day15_chapter6 start 4:36:32 end 5:14:33
+day16_chapter7 start 4:36:32 end 5:32:51
+day17_chapter7 start 5:32:51 end 5:45:00
+day18_chapter7 completed start 5:45:00 end 6:07:35
+day19_chapter8 start 6:07:35 end 6:23:46
+day20_chapter8 completed start 6:23:46 end 6:52:23
+day21_project game start 6:52:23 end 7:06:50
+day22_chapter9 start 7:06:50 end 7:14:26
+day23_chapter9 completed start 7:06:50 end 7:28:10
+day25_chapter9 practice start 7:28:10 end 7:53:22 
+day26_chapter9 practice start 7:53:22 end 8:08:38
+day27_chapter10 start 8:08:38 end 8:35:02
+day28_chapter10 start 8:35:02 end 9:00:15
+day29_chapter10 start 9:00:15 end 9:17:22
+day30_chapter10 practice start 9:17:22 end 9:48:30
+day31_chapter11 start 9:48:30 end 10:09:00
+day32_chapter11 start 9:48:30 end 10:25:17
+day33_chapter11 start 10:25:17 end 10:36:48
+day34_chapter11 start 10:25:17 end 10:55:24
+day35_chapter11 start 10:55:24 end 11:10:12
+day36_chapter11 start 11:10:12 end 11:52:23
+python part 1 complete in 36days
+
+python course part 2 start
+``````````````````````````````````````
+day37 chapter 12 start 00:00 end 10:00
+day38 chapter 12 start 00:00 end 15:00
+day39 chapter 12 start 00:00 end 22:08
+day40 chapter 12 start 22:08 end 41:39
